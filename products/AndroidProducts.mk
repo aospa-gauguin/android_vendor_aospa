@@ -21,6 +21,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/bladerunner/aospa_bladerunner.mk \
     $(LOCAL_DIR)/bluejay/aospa_bluejay.mk \
     $(LOCAL_DIR)/cheetah/aospa_cheetah.mk \
+    $(LOCAL_DIR)/gauguin/aospa_gauguin.mk \
     $(LOCAL_DIR)/lmi/aospa_lmi.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
